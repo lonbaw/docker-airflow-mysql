@@ -1,0 +1,7 @@
+tornado==6.0.3
+confluent_kafka==1.7.0
+simplejson==3.17.5
+requests==2.26.0
+peewee==3.14.4
+beautifulsoup4==4.11.1
+flask-appbuilder==3.4.5

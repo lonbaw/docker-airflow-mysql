@@ -1,0 +1,4 @@
+# mysqldb data
+mysqldb/data
+#logs
+airflow/logs
